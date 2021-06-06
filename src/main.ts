@@ -1,6 +1,5 @@
 import { createApp } from "vue";
 import App from "./App.vue";
-import VueGtag from "vue-gtag";
 
 // pwa
 import { registerSW } from "virtual:pwa-register";
@@ -12,11 +11,5 @@ const app = createApp(App);
 Object.values(import.meta.globEager("./modules/*.ts")).map((i) =>
   i.install?.(app)
 );
-
-app.use(VueGtag, {
-  config: {
-    id: "G-FMH4WDW53W",
-  },
-});
 
 app.mount("#app");
