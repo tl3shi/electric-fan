@@ -1,14 +1,8 @@
 # electric-fan
 
-> [Electric Fan](https://fan.elpsy.cn)
-
-[未来道具研究所](https://elpsy.cn)
-
 一个智障小工具
 
 电风扇！ 为你的夏日带去清凉！
-
-- [Web Demo](https://fan.elpsy.cn)
 
 ## Feature
 
@@ -24,40 +18,6 @@
 
 - 没有风
 
-## Intend
+## 原作者: yunyoujun
 
-……这是我在小空调之前写的，因为写的太丑甚至没好意思宣传，没想到小空调意外的火了。
-
-- [x] [空调](https://github.com/YunYouJun/air-conditioner)
-- [ ] 温度计 🌡️
-
-## About
-
-<p align="center">
-<img src="https://upyun.yunyoujun.cn/images/eat-watermelon-qrcode.jpg" width="400" alt="清凉一夏">
-<img src="https://upyun.yunyoujun.cn/images/money-is-too-much.jpg" alt="你想用钱来收买我吗？这是对我的侮辱！我本想这样大声呵斥他，但钱实在是太多了" width="500">
-<p>
-
-## [Change Log](CHANGELOG.md)
-
-## Dev 开发
-
-```sh
-# install dependencies
-yarn
-```
-
-```sh
-# 启动
-# http://localhost:3000/
-yarn dev
-```
-
-```sh
-# 构建
-yarn build
-```
-
-## Todo
-
-- [ ] Upgrade element-plus for sass
+see: https://www.yunyoujun.cn/
