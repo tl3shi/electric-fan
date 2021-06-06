@@ -20,4 +20,6 @@
 
 ## 原作者: yunyoujun
 
-see: https://www.yunyoujun.cn/
+小哥挺有意思的
+
+他博客: https://www.yunyoujun.cn/
